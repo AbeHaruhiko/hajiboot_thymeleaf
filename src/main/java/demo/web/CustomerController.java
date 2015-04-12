@@ -1,4 +1,4 @@
-package demo.api;
+package demo.web;
 
 import java.util.List;
 
