@@ -12,7 +12,7 @@ import demo.domain.Customer;
 import demo.service.CustomerService;
 
 @Controller
-@RequestMapping("costomers")
+@RequestMapping("customers")
 public class CustomerController {
 
 	@Autowired
